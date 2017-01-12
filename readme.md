@@ -10,6 +10,6 @@ A few scripts for getting convenience store locations.
 
 ### Use
 
-```js
-node index.js --brand [wawa or sheetz or 7eleven] -- out ./data/stores/out.json
+```bash
+node index.js --brand wawa -- out ./data/stores/out.json
 ```
